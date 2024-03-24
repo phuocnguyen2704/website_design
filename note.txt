@@ -1,0 +1,4 @@
+-  HTML lecture:
+    +   Extra spaces, line are ignore
+- CSS lecture:
+    + 
